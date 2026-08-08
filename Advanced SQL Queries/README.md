@@ -1,3 +1,6 @@
+# Test
+
+![Test](create%20table%20employees%20and%20insert%20records.png)
 # Advanced SQL Queries
 
 A MySQL lab demonstrating table creation, data insertion, filtering, sorting, aggregation, grouping, and table modification operations.
