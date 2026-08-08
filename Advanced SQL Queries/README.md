@@ -142,18 +142,6 @@ A MySQL lab demonstrating employee database creation, data retrieval, filtering,
 
 ---
 
-## Additional Work
-
-### Syntax Error While Adding Full Name Column
-
-<img src="add full name column syntax error.png">
-
-### Schema Modification
-
-<img src="drop first last name and add full name column.png">
-
----
-
 ## Technologies Used
 
 - MySQL
