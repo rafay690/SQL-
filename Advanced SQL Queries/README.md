@@ -2,6 +2,8 @@
 # Test
 
 ![Test](create table employees and insert records.png)
+![Test](create_table.png)
+
 
 A MySQL lab demonstrating employee database creation, data retrieval, filtering, sorting, aggregation, grouping, and table modification operations.
 
